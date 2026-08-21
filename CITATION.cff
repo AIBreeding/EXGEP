@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use EXGEP, cite this software version and the associated article."
+title: "EXGEP"
+type: software
+version: 1.0.0
+date-released: 2026-08-21
+url: "https://github.com/AIBreeding/EXGEP"
+license: "LicenseRef-EXGEP-Research-Use-1.0"
+preferred-citation:
+  type: article
+  title: "EXGEP: a framework for predicting genotype-by-environment interactions using ensembles of explainable machine-learning models"
+  authors:
+    - family-names: Yu
+      given-names: T.
+    - family-names: Zhang
+      given-names: H.
+    - family-names: Chen
+      given-names: S.
+  journal: "Briefings in Bioinformatics"
+  year: 2025
+  doi: "10.1093/bib/bbaf414"

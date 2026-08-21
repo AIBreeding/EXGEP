@@ -1,0 +1,153 @@
+EXGEP RESEARCH USE LICENSE 1.0
+
+Copyright (c) 2025-2026 EXGEP copyright holders. All rights reserved.
+
+This license is not an open-source license. By downloading, copying, accessing,
+or using the Software, you agree to the following terms.
+
+1. Definitions
+
+"Copyright Owner" means the EXGEP copyright holders and any person or entity
+authorized by them to license the Software.
+
+"Software" means EXGEP version 1.0.0 and the documentation, examples, data,
+compiled program files, manifests, and other materials distributed with it,
+excluding Third-Party Materials governed by separate terms.
+
+"Non-Commercial Research" means systematic investigation carried out solely
+for public-interest, educational, or scholarly purposes, without direct or
+indirect commercial advantage, revenue generation, product or service
+development, fee-for-service activity, or benefit to a for-profit entity.
+
+"Commercial Use" means any use that is not Non-Commercial Research. Commercial
+Use includes, without limitation: use by or for a for-profit entity; internal
+research or development by a business; contract research; consulting;
+fee-for-service activity; product evaluation, validation, development, or
+operation; and use whose results are intended to benefit a commercial product,
+service, or organization.
+
+"Authorized User" means a person exercising the rights granted in Section 2
+and complying with this license.
+
+"Official Archive" means an unmodified EXGEP release archive published by the
+Copyright Owner through https://github.com/AIBreeding/EXGEP/releases, together
+with its original filename and a SHA-256 checksum published for that release.
+
+"Third-Party Materials" means software, data, or other materials identified in
+THIRD_PARTY_NOTICES.md or otherwise accompanied by separate license terms.
+
+2. Limited Research Grant
+
+Subject to continued compliance with this license, the Copyright Owner grants
+each Authorized User a limited, non-exclusive, worldwide, royalty-free,
+revocable, non-sublicensable, and non-transferable right to install and run the
+Software solely for Non-Commercial Research.
+
+No right is granted for Commercial Use. Commercial Use requires a separate
+written commercial license from the Copyright Owner before any such use begins.
+For clarity, an academic collaboration, publication plan, or absence of direct
+revenue does not make use by or for a for-profit entity Non-Commercial Research.
+
+3. Research Results and Publications
+
+An Authorized User may analyze, publish, and otherwise share results produced
+through permitted Non-Commercial Research, provided that the publication or
+communication identifies the EXGEP version used and cites:
+
+Yu T, Zhang H, Chen S, et al. EXGEP: a framework for predicting
+genotype-by-environment interactions using ensembles of explainable
+machine-learning models. Briefings in Bioinformatics (2025).
+https://doi.org/10.1093/bib/bbaf414
+
+This section permits sharing research results; it does not permit distributing
+modified Software or transferring a right to use the Software commercially.
+
+4. Redistribution and Mirroring
+
+An Authorized User may copy, forward, or mirror an Official Archive for others
+only if all of the following conditions are satisfied:
+
+(a) the Official Archive is complete and byte-for-byte unmodified;
+(b) the original archive filename is preserved;
+(c) no file is added, removed, modified, extracted, or repackaged;
+(d) the license, copyright notices, Third-Party Materials notices,
+    documentation, manifest, checksums, and binaries remain intact; and
+(e) the distributor does not state or imply that it grants commercial rights,
+    provides an official endorsement, or is the Copyright Owner.
+
+Redistribution does not transfer or imply commercial authorization. Each
+recipient must independently comply with this license or obtain a separate
+written commercial license. No other redistribution or sublicensing is allowed.
+
+5. Restrictions
+
+Except as expressly permitted by this license, you may not, and may not enable
+another person to:
+
+(a) use the Software for Commercial Use;
+(b) modify, adapt, translate, or create derivative works of the Software;
+(c) separate, extract, or repurpose components of the Official Archive;
+(d) decompile, disassemble, reverse engineer, or otherwise attempt to discover
+    source code, algorithms, models, or non-public implementation details;
+(e) remove or alter a notice, manifest, checksum, attribution, or license term;
+(f) sell, rent, lease, sublicense, host as a service, or commercially distribute
+    the Software; or
+(g) use the Software in violation of applicable law.
+
+The restrictions in this section apply only to the maximum extent permitted by
+applicable law. If applicable law gives you a non-waivable right to perform a
+restricted act, you may exercise only that right and only after giving the
+Copyright Owner advance written notice where the law permits.
+
+6. Ownership and Reservation of Rights
+
+The Software is licensed, not sold. The Copyright Owner and its licensors retain
+all copyright, patent, trademark, trade-secret, source-code, and other rights in
+the Software. No rights are granted by implication, estoppel, or otherwise.
+"EXGEP" and related names or marks may not be used to suggest sponsorship or
+endorsement without prior written permission.
+
+7. Third-Party Materials
+
+Third-Party Materials are governed by their respective license terms, as
+identified in THIRD_PARTY_NOTICES.md and SBOM.spdx.json. This license does not
+limit rights independently granted under those third-party licenses. You are
+responsible for complying with their terms.
+
+8. Termination
+
+The rights granted under this license terminate automatically upon a material
+breach. Upon termination, you must stop using the Software and delete all copies
+under your control, except that an archival copy may be retained only if required
+by law. Sections 5 through 11 survive termination. Termination does not
+retroactively withdraw research results that were lawfully published before the
+breach, but it does not permit continued use of the Software.
+
+9. Disclaimer of Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS" AND
+"AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR RESULTS. YOU ASSUME ALL RISK
+ARISING FROM USE OF THE SOFTWARE.
+
+10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT OWNER, CONTRIBUTORS, AND
+LICENSORS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE,
+GOODWILL, OR BUSINESS INTERRUPTION, ARISING FROM OR RELATED TO THE SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY. THEIR TOTAL AGGREGATE LIABILITY WILL NOT
+EXCEED THE AMOUNT YOU PAID FOR THE SOFTWARE, IF ANY, DURING THE TWELVE MONTHS
+BEFORE THE EVENT GIVING RISE TO LIABILITY.
+
+11. Commercial Licensing and Contact
+
+For Commercial Use, enterprise or internal R&D, or questions about whether a
+planned activity qualifies as Non-Commercial Research, request written
+authorization before use by contacting:
+
+lihuihui@caas.cn
+
+Only a written agreement signed or expressly issued by the Copyright Owner can
+grant commercial rights or waive a term of this license.
